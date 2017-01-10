@@ -1,0 +1,7 @@
+1) Sarah Gunderson
+
+2) I believe all parts of the code are working. If I were to have more time, I would separate my private messaging code into a separate function. This would make it more readable and descriptive. I would also improve my make file so it was streamlined. I would also make participant_sock and observer sock local instead of global variables and split my Node type into pNode and oNode types to be more descriptive in my assignments and reduce space due to unnecessary data fields.
+
+3) My first method of testing was to open up several terminals or tmux sessions and run my server, participant, and observer programs. When something when wrong that I couldn't figure out in the code, I used print statements to diagnose the issue. If these too proved insufficient, I used GDB to delve into the code and inspect certain variables.
+
+4) One of the most challenging parts of this assignment were all the little bugs that caught me up. I spent a long time figuring out how to flush my stdin buffer in my participant and observer programs so that they wouldn't suspend or have undesirable behavior. Obviously the hardest part of completing the program was doing so after getting a concussion. I was not as quick to solve problems and couldn't work on the program for long amounts of time.

@@ -1,0 +1,13 @@
+Sarah Gunderson
+November 5, 2016
+Computer Networks I
+
+1) We are asked to create a chat room similar to an AIM chat, albeit less pretty and running on a terminal. To do so, we will create three files: 1) A server to service connection requests and transmit data between clients, 2) a participant client that sends messages to the server and recieves messages from other participants, 3) an observer client which may latch onto a participant and recieve all chat room messages in addition to private messages to the participant they are stalking.
+
+2) At this time, I do not see any faults in the protocol.
+
+3) The most challenging part of this assignment will not going down a rabbit hole on a problem. I need to make a plan, stick to it, and make changes to it when necessary. When I need to alter my plan, it is important that I put thought into if it will the be best choice and not cause me unnessisary work or pain, like in program 2.
+
+4) GDB (my bffl), man pages about fuctions (like select), the internet.
+
+5) Perhaps fragglet.
